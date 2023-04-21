@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="Menu.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9305" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="5" />
+			<Collapse line="8" />
+			<Collapse line="139" />
+			<Collapse line="258" />
+			<Collapse line="370" />
+		</Folding>
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="69" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Les_Methodes_Directes.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="401" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Resolution_Directe.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="492" topLine="39" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="12" />
+			<Collapse line="46" />
+			<Collapse line="62" />
+			<Collapse line="75" />
+			<Collapse line="90" />
+			<Collapse line="104" />
+			<Collapse line="118" />
+			<Collapse line="131" />
+			<Collapse line="144" />
+			<Collapse line="159" />
+			<Collapse line="174" />
+			<Collapse line="188" />
+		</Folding>
+	</File>
+	<File name="Multiplication_des_matrices.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="218" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Les_Methodes_Directes.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3095" topLine="38" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="29" />
+			<Collapse line="90" />
+		</Folding>
+	</File>
+	<File name="Menu.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="135" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Multiplication_des_matrices.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1093" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="21" />
+			<Collapse line="40" />
+			<Collapse line="54" />
+			<Collapse line="72" />
+			<Collapse line="87" />
+			<Collapse line="100" />
+			<Collapse line="115" />
+		</Folding>
+	</File>
+	<File name="Resolution_Directe.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="662" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Les_Methodes.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3291" topLine="28" />
+		</Cursor>
+		<Folding>
+			<Collapse line="5" />
+			<Collapse line="23" />
+			<Collapse line="45" />
+			<Collapse line="67" />
+			<Collapse line="86" />
+			<Collapse line="105" />
+			<Collapse line="125" />
+			<Collapse line="138" />
+			<Collapse line="154" />
+			<Collapse line="163" />
+			<Collapse line="188" />
+			<Collapse line="196" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

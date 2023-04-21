@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1671444054 source:d:\engineering\algo numirique\projet algo-num\les_methodes_directes.c
+	<stdio.h>
+	<stdlib.h>
+	"Les_Methodes_Directes.h"
+
+1671444026 source:d:\engineering\algo numirique\projet algo-num\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1671396287 source:d:\engineering\algo numirique\projet algo-num\multiplication_des_matrices.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Multiplication_des_matrices.h"
+
+1671391450 source:d:\engineering\algo numirique\projet algo-num\resolution_directe.c
+	<stdio.h>
+	<stdlib.h>
+	"Resolution_Directe.h"
+
+1671371474 source:d:\engineering\algo numirique\projet algo-num\les_methodes.c
+	<stdio.h>
+	<stdlib.h>
+	"Les_Methodes.h"
+
+1671370186 d:\engineering\algo numirique\projet algo-num\les_methodes.h
+
+1671367397 d:\engineering\algo numirique\projet algo-num\multiplication_des_matrices.h
+
+1671391510 d:\engineering\algo numirique\projet algo-num\resolution_directe.h
+
+1671443317 d:\engineering\algo numirique\projet algo-num\les_methodes_directes.h
+
+1671444026 source:d:\engineering\algo numirique\projet algo-num\menu.c
+	<stdio.h>
+	"Menu.h"
+
+1671394733 d:\engineering\algo numirique\projet algo-num\menu.h
+
